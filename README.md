@@ -17,7 +17,7 @@ Prepare the Dataset
 
 Tokenize the training and testing datasets.
 Save the tokenized data in .csv files for reuse.
-Fine-Tune T5 Use the following script to fine-tune the T5 model
+Fine-Tune T5 
 
 ## 🌐 Using the Flask Web App
 Run the Flask App
